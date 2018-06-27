@@ -13,8 +13,7 @@ Web Application Development
 (In this assignment, I learned how to create my own tax calculator through cloud 9 and git hub.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://emilyknapik.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
 1. (One thing I learned in this assignment was how to create reusable codes with functions. This became very useful and will continue to be with the other assignments and lessons that we learn in this course.)
