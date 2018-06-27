@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 27, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Emily Knapik)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I learned how to create my own tax calculator through cloud 9 and git hub.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (One thing I learned in this assignment was how to create reusable codes with functions. This became very useful and will continue to be with the other assignments and lessons that we learn in this course.)
+2. (Another thing that I learned in this assignment was how to create a tax bracket through cloud 9. This was very interesting and a really cool when I finally got the tax calculator to work.)
+3. (Lastly, in this assignment I learned how to store certain values in an array and also learn a lot more about javascript and how it works more than I ever have before.)
 
